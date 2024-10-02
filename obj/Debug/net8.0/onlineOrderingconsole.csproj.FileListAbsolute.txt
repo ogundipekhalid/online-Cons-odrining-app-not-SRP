@@ -1,0 +1,14 @@
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\bin\Debug\net8.0\onlineOrderingconsole.exe
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\bin\Debug\net8.0\onlineOrderingconsole.deps.json
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\bin\Debug\net8.0\onlineOrderingconsole.runtimeconfig.json
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\bin\Debug\net8.0\onlineOrderingconsole.dll
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\bin\Debug\net8.0\onlineOrderingconsole.pdb
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.AssemblyInfoInputs.cache
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.AssemblyInfo.cs
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.dll
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\refint\onlineOrderingconsole.dll
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.pdb
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\onlineOrderingconsole.genruntimeconfig.cache
+C:\Users\DELL\source\OgunFold\onlineOrderingconsole\obj\Debug\net8.0\ref\onlineOrderingconsole.dll
